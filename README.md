@@ -108,4 +108,4 @@ Sistem elevator berbasis FSM berhasil diimplementasikan menggunakan Logisim Evol
 
 * Elevator.circ
 * README.md
-* [Video Demonstrasi.mp4](https://youtu.be/P_PBpqCqRyA)
+* [[Video Demonstrasi.mp4](https://youtu.be/P_PBpqCqRyA)
