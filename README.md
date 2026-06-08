@@ -1,5 +1,11 @@
 # Elevator Control System Using Finite State Machine (FSM)
 
+## Penyusun Proyek
+ Nama  :   1. Ubay Akbar Ramdhan 
+           2. Moch Alfin Nabiha
+           3. Malcolm Haykal Vidie Pratama
+---
+
 ## Deskripsi Proyek
 
 Proyek ini merupakan simulasi sistem kontrol elevator menggunakan Logisim Evolution yang menerapkan konsep Finite State Machine (FSM). Sistem dapat menerima tujuan lantai dan memindahkan elevator secara bertahap menuju lantai yang dipilih.
