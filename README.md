@@ -15,7 +15,7 @@ Proyek ini merupakan simulasi sistem kontrol elevator menggunakan Logisim Evolut
 
 ## Tampilan Rangkaian
 
-![Rangkaian Elevator](images/elevator-circuit.png)
+![Rangkaian Elevator](docs/rangkaian_floor.png)
 
 Gambar 1. Rangkaian utama sistem elevator berbasis FSM.
 
@@ -61,21 +61,21 @@ Setiap perpindahan terjadi setelah satu siklus clock.
 
 ### Kondisi Awal
 
-![Lantai 0](images/fl0.png)
+![Lantai 0](test/floor0.png)
 
 LED FL0 menyala yang menunjukkan elevator berada di lantai 0.
 
 ### Pengujian Tujuan F3
 
-![Lantai 1](images/fl1.png)
+![Lantai 1](test/floor1.png)
 
 Clock ke-1: Elevator berada di lantai 1.
 
-![Lantai 2](images/fl2.png)
+![Lantai 2](test/floor2.png)
 
 Clock ke-2: Elevator berada di lantai 2.
 
-![Lantai 3](images/fl3.png)
+![Lantai 3](test/floor3.png)
 
 Clock ke-3: Elevator mencapai lantai tujuan yaitu lantai 3.
 
