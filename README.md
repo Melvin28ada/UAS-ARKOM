@@ -1,9 +1,10 @@
 # Elevator Control System Using Finite State Machine (FSM)
 
 ## Penyusun Proyek
- Nama  :   1. Ubay Akbar Ramdhan 
-           2. Moch Alfin Nabiha
-           3. Malcolm Haykal Vidie Pratama
+Nama  : 
+- Ubay Akbar Ramdhan
+- Moch Alfin Nabiha
+- Malcolm Haykal Vidie Pratama
 ---
 
 ## Deskripsi Proyek
@@ -107,4 +108,4 @@ Sistem elevator berbasis FSM berhasil diimplementasikan menggunakan Logisim Evol
 
 * Elevator.circ
 * README.md
-* Video Demonstrasi.mp4
+* [Video Demonstrasi.mp4](https://youtu.be/P_PBpqCqRyA)
